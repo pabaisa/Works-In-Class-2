@@ -2,7 +2,7 @@ package basic;
 
 import java.util.Scanner;
 
-public class SecondExercizes {
+public class SecondExercises {
     public static void main(String[] args){
        Scanner textScanner = new Scanner(System.in);
 
