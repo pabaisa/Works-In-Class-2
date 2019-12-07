@@ -22,7 +22,7 @@ public class FiveExercises {
                // if (x=0){
                  //   System.out.println(space+space);
 
-                }
+                //}
                 System.out.print(symbol);
             }
             System.out.println();
