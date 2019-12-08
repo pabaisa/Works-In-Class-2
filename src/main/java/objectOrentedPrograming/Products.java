@@ -2,9 +2,10 @@ package objectOrentedPrograming;
 
 public class Products {
     private String name;
-    private int price;
+    private double price;
 
-    public Products(String name, int price) {
+
+    public Products(String name, double price) {
         this.name = name;
         this.price = price;
     }
@@ -16,4 +17,5 @@ public class Products {
     public double getPrice() {
         return price;
     }
+
 }
