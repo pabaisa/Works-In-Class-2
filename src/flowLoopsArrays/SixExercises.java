@@ -17,14 +17,12 @@ public class SixExercises {
             } else if (price > 1.90) {
                 System.out.println("jusu graza! Aciu uz pirkima");
             }
-        }
-        else if (product.equals("vyna")){
+        } else if (product.equals("vyna")) {
             System.out.println("koks jusu amzius ?");
             int old = textScanner.nextInt();
-            if (old >= 20){
+            if (old >= 20) {
                 System.out.println("Prasome - jusu vynas!");
-            }
-            else System.out.println("Deja jus per jaunas :(");
+            } else System.out.println("Deja jus per jaunas :(");
         }
     }
 
