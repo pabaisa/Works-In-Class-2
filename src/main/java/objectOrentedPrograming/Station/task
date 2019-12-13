@@ -1,0 +1,5 @@
+2. Petrol StationSimulate the process of refueling. Within the while loop ask user if you should continue or finish. For every entered "continue" command you should add a specific amount of petrol and money (both of type double) and view it on the console.
+At the end user should pay for petrol. Consider multiple possibilities, like:
+The user paid exactly as much as required.
+The user paid too much (cashier should return the rest of the money).
+The user paid too little – should be asked for the rest.

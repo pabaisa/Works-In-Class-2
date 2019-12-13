@@ -1,4 +1,4 @@
-package objectOrentedPrograming;
+package objectOrentedPrograming.Shopping;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package objectOrentedPrograming;
+package objectOrentedPrograming.Shopping;
 
 public class Products {
     private String name;
